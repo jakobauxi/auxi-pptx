@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxDwioEn/DfazcBLgS0QvOs4bmAOP3Wm1UYMA0L6U19y0qXOZGtEdGXAiSMddAL/j75ezRJr49+clycCxMKOBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jakob\\Desktop\\auxi-pptx\\auxi-pptx\\auxi-pptx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakob\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\Jakob\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
